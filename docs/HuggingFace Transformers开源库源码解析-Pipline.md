@@ -140,4 +140,4 @@ def get_from_cache(
 请求文件路径被sha256+etag加密 通过HTTP请求获取，比如下面所示
 ![Image](https://pic4.zhimg.com/80/v2-839c22f58c37b49e2009154f7faa09af.png)
 
-### 待续
+### 待续每周更新
